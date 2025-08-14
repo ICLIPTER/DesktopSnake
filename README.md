@@ -4,6 +4,7 @@ A fun transparent Snake game that runs **directly on your desktop** — no borde
 Use your arrow keys to control the snake and eat the red apples to grow!
 
 
+
 ---
 
 ## ✨ Features
